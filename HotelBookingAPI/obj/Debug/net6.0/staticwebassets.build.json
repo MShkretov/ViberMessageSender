@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CqRdg6vUO+hxSzGGTX4zj2Hq9AY1BKx1Xe+d/j54ViY=",
+  "Source": "ViberMessageSenderAPI",
+  "BasePath": "_content/ViberMessageSenderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
